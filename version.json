@@ -1,11 +1,12 @@
 {
   "name": "影之刃零·代打工具",
-  "version": "0.2.0",
-  "build": 30,
-  "release_tag": "v0.2.0-build30",
+  "version": "0.6.0",
+  "release_tag": "v0.6.0",
   "platform": "win-x64",
+  "framework": "net48",
   "steam_build": "26266538",
   "file": "CheatL.PhantomBladeZero.exe",
-  "bytes": 149527738,
-  "sha256": "06ffc6580ea9484fd53224dd70690dc6402591f389f0f65c3a5989da77c7312a"
+  "bytes": 30862336,
+  "sha256": "fef011a7e7cd199f7f3769d83e7c56708ca6184995a4e3320d1359197901e6d9",
+  "download_url": "https://github.com/Hann428/TTC/releases/download/v0.6.0/CheatL.PhantomBladeZero.exe"
 }
