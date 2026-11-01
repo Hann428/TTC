@@ -4,11 +4,11 @@
 
 ![影之刃·代打工具，持续更新中](assets/phantom-blade-zero-cover.png)
 
-## 影之刃零·代打工具 v0.6.0
+## 影之刃零·代打工具 v0.6.1
 
-**[下载 CheatL.PhantomBladeZero.exe](https://github.com/Hann428/TTC/releases/download/v0.6.0/CheatL.PhantomBladeZero.exe)** · [版本发布页](https://github.com/Hann428/TTC/releases/tag/v0.6.0)
+**[下载 CheatL.PhantomBladeZero.exe](https://github.com/Hann428/TTC/releases/latest/download/CheatL.PhantomBladeZero.exe)** · [版本发布页](https://github.com/Hann428/TTC/releases/tag/v0.6.1)
 
-Windows x64，当前适配 Steam 构建 **26266538**。文件大小 **30,862,336 字节（约29.43 MiB）**。
+Windows x64，当前适配 Steam 构建 **26266538**。文件大小 **30,878,208 字节（约29.45 MiB）**。
 
 只需下载一个EXE。`version.json`、校验文件和声明供查询，无需放在EXE旁。所需托管依赖、自动挡组件及微软VC++运行库安装器均已内置；使用系统自带的.NET Framework 4.8，支持已具备该环境的Windows 10/11。
 
@@ -46,7 +46,7 @@ Windows x64，当前适配 Steam 构建 **26266538**。文件大小 **30,862,336
 
 ### 更新与组件说明
 
-v0.6.0统一新版版本展示，整合轻量后端、道具页、探索页、地图点传与跨区恢复修补。后续计划包含收集物高亮、目录扩充和更多属性编辑，未实现内容不算当前功能。
+v0.6.1修补已安装自动挡组件时的共享Tick兼容检查：原先仅识别一种已核入口形式，部分启动会话会因此把多个普通功能一起拒绝。现在同时核验两种已证实形式，仍检查组件来源、目标与实时完整性。v0.6.0遇到Tick错误的用户请升级；无需重启游戏或重装现有匹配组件。后续计划包含收集物高亮、目录扩充和更多属性编辑，未实现内容不算当前功能。
 
 这是非官方工具，游戏更新后可能需要重新适配。安装器遇到其他来源或不完整的同名组件会拒绝覆盖；安装与运行库准备只在用户点击后执行。第三方来源及许可见[THIRD-PARTY-NOTICES.txt](THIRD-PARTY-NOTICES.txt)，具体版本、大小与SHA-256见[version.json](version.json)和[SHA256SUMS.txt](SHA256SUMS.txt)。
 
