@@ -1,4 +1,4 @@
-影之刃零·代打工具 v0.6.0 - Third-party notices
+影之刃零·代打工具 v0.8.8 - Third-party notices
 
 The following upstream notices are preserved from the actual embedded components.
 
