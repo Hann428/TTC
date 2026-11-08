@@ -1,0 +1,41 @@
+{
+  "product": "雾锁王国工具",
+  "game": "Enshrouded",
+  "version": "0.6.4",
+  "displayVersion": "v0.6.4",
+  "assemblyVersion": "0.6.4.0",
+  "fileVersion": "0.6.4.0",
+  "format": "single-exe-v1",
+  "platform": "win-x64",
+  "filename": "Enshrouded.Trainer.v0.6.4.exe",
+  "originalFilename": "雾锁王国工具-v0.6.4.exe",
+  "bytes": 69188746,
+  "sha256": "8743f3a493059a9e07770f88000cd9bef4ce517d604f138a8a7a0a053e8c8c17",
+  "releaseTag": "enshrouded-v0.6.4",
+  "releaseUrl": "https://github.com/Hann428/TTC/releases/tag/enshrouded-v0.6.4",
+  "downloadUrl": "https://github.com/Hann428/TTC/releases/download/enshrouded-v0.6.4/Enshrouded.Trainer.v0.6.4.exe",
+  "dateChina": "2026-11-09",
+  "runtime": "system .NET Framework 4.8+ (Windows 10 1903+ / Windows 11 inbox); embedded Python 3.14.10",
+  "optimization": {
+    "previousVersion": "0.6.0",
+    "previousBytes": 274844151,
+    "reductionPercent": 74.83,
+    "losslessIcons": {
+      "visibleItems": 3914,
+      "coveredIcons": 3898,
+      "distinctPixelComparisons": 3595,
+      "pixelIdentical": true,
+      "alreadyMissingIcons": 16,
+      "uniqueAssets": 3566
+    }
+  },
+  "verification": {
+    "productMetadata": 14,
+    "distribution": 13,
+    "softwareStartup": 8,
+    "controller": 148,
+    "itemSynthetic": 100,
+    "nativeDllsIdenticalToDesktop": 10,
+    "allInGameFeaturesRetestedForThisRelease": false
+  }
+}
