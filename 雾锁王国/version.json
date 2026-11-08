@@ -1,0 +1,27 @@
+{
+  "product": "雾锁王国工具",
+  "game": "Enshrouded",
+  "version": "0.6.0",
+  "displayVersion": "v0.6.0",
+  "assemblyVersion": "0.6.0.0",
+  "fileVersion": "0.6.0.0",
+  "format": "single-exe-v1",
+  "platform": "win-x64",
+  "filename": "雾锁王国工具-v0.6.0.exe",
+  "bytes": 274844151,
+  "sha256": "d8796d889afa355c79457abeeb3f4634844620498ec254dc4c92bc388ba0d2d9",
+  "releaseTag": "enshrouded-v0.6.0",
+  "releaseUrl": "https://github.com/Hann428/TTC/releases/tag/enshrouded-v0.6.0",
+  "downloadUrl": "https://github.com/Hann428/TTC/releases/download/enshrouded-v0.6.0/%E9%9B%BE%E9%94%81%E7%8E%8B%E5%9B%BD%E5%B7%A5%E5%85%B7-v0.6.0.exe",
+  "dateChina": "2026-11-09",
+  "runtime": "bundled .NET and Python; no separate installation",
+  "verification": {
+    "productMetadata": 14,
+    "distribution": 13,
+    "softwareStartup": 8,
+    "controller": 143,
+    "itemSynthetic": 100,
+    "nativeDllsIdenticalToDesktop": 10,
+    "allInGameFeaturesRetestedForThisRelease": false
+  }
+}
