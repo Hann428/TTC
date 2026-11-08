@@ -1,8 +1,8 @@
 # 雾锁王国工具 · v0.6.0
 
-**[下载单文件 EXE](https://github.com/Hann428/TTC/releases/download/enshrouded-v0.6.0/%E9%9B%BE%E9%94%81%E7%8E%8B%E5%9B%BD%E5%B7%A5%E5%85%B7-v0.6.0.exe)** · [版本发布页](https://github.com/Hann428/TTC/releases/tag/enshrouded-v0.6.0)
+**[下载单文件 EXE](https://github.com/Hann428/TTC/releases/download/enshrouded-v0.6.0/Enshrouded.Trainer.v0.6.0.exe)** · [版本发布页](https://github.com/Hann428/TTC/releases/tag/enshrouded-v0.6.0)
 
-文件名：`雾锁王国工具-v0.6.0.exe`。大小：274,844,151 字节（约 262.11 MiB）。
+下载文件名：`Enshrouded.Trainer.v0.6.0.exe`，打开后的产品名称为“雾锁王国工具 · v0.6.0”。大小：274,844,151 字节（约 262.11 MiB）。
 
 只需下载这一个 EXE，双击打开。无需配套文件夹，也无需手动安装 .NET/Python；首次运行自动准备内置组件。支持 Windows 10/11 x64，物品窗口使用系统 Edge 或已安装的 Chromium 浏览器。没有安装游戏时，主窗口和物品目录仍可打开。
 
